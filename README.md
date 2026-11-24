@@ -5,7 +5,7 @@
 **Faculty Mentor:** Dr. Lalit Jindal  
 
 ## Group Members
-- **Shrishti Jaiswal** (25SOM2039000050) — Group Leader
+- **Shrishti Jaiswal** (25SOM2039000050)
 - **Kishan Raj** (25SOM2039000146)
 - **Ishika Rawat** (25SOM2039000398)
 - **Mritunjay Singh** (25SOM2039000376)
